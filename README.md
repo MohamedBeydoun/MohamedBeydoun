@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mohamed Beydoun's Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedBeydoun&show_icons=true&include_all_commits=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed Beydoun's Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedBeydoun&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MohamedBeydoun/MohamedBeydoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
